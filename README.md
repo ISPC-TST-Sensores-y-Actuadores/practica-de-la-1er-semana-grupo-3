@@ -1,11 +1,27 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8383066&assignment_repo_type=AssignmentRepo)
-# PracticaSemana1
-Repositorio de practica de la primer semana de la materia Sensores y Actuadores
+[![sensores.jpg](https://i.postimg.cc/L6wBTd77/sensores.jpg)](https://postimg.cc/mt3HLnTN)
 
-![image](https://user-images.githubusercontent.com/84986194/188350512-fd45d679-2f56-4769-9a6d-84e195238634.png)
+# Practica de Semana 1 (Grupo 3)
 
-![image](https://user-images.githubusercontent.com/84986194/188350680-0df3c7dc-338a-42e5-8f8a-2426781223c9.png)
+__Repositorio de practica de la primer semana de la materia Sensores y Actuadores__
 
+# Ejercicios:
+
++ A) Dado el esquema de modelización por desarrollos, implementar dispositivos IoT con sistemas IoT diferentes. ESquematizar según triangulo de proceso, conectividad y sensores
+
++ B) Describir en estas implementaciones los sistemas de medición, actuación y visualizacion si correspondiera, según el esquema de dispositivos.
+
+
+## Estructura del repositorio:
+[![image.png](https://i.postimg.cc/qMhZ0GHP/image.png)](https://postimg.cc/GHRjxG2K)
 
  
-
+ 
+ 
+ 
+### Alumnos 
++ [Carla Argentina Wayar](https://github.com/WayarCarla)
++ [Dario Arriola](https://github.com/dr-arriola)
++ [Gonzalo pasarell](https://github.com/Gonpass)
++ [Lionel Rios](https://github.com/RiosLionel)
++ [Oscar Gazzola](https://github.com/OscarAGazzola)
++ [Jeremias Castro](https://github.com/Jerec4stro)
